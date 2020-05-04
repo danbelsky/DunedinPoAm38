@@ -1,0 +1,36 @@
+citHeader("To cite DunedunPoAm in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Quantification of the pace of biological aging in humans through a blood test: a DNA methylation algorithm.",
+  author       = personList(as.person("Daniel W. Belsky"),
+                   as.person("Avshalom Caspi"),
+                   as.person("Hadley Arseneault"),
+                   as.person("David L. Corcoran"),
+                   as.person("Eilish Hannon"),
+                   as.person("Honna L. Harrington"),
+                   as.person("Line JH Rasmussen"),
+                   as.person("Renate Houts"),
+                   as.person("Kim M. Huffman"),
+                   as.person("William E. Kraus"),
+                   as.person("Dayoon Kwon"),
+                   as.person("Jonathan Mill"),
+                   as.person("Carl F. Pieper"),
+                   as.person("Joey Prinz"),
+                   as.person("Richie Poulton"),
+                   as.person("Karen Sugden"),
+                   as.person("Benjamin S. Williams"),
+                   as.person("Terrie E. Moffitt")
+                   ),
+  journal      = "bioRxiv",
+  year         = "2020",
+  volume       = "02",
+  number       = "05",
+  pages        = "927434",
+  url          = "https://doi.org/10.1101/2020.02.05.927434",
+
+  textVersion  =
+  paste("DW Belsky, et al. (2020).",
+        "Quantification of the pace of biological aging in humans through a blood test: a DNA methylation algorithm.",
+        "bioRxiv 2020.02.05.927434",
+        "URL  https://doi.org/10.1101/2020.02.05.927434")
+)
