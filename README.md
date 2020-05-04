@@ -7,7 +7,7 @@ Given a set of methylation beta values, this tool will calculate the Dunedin Met
  
 #### Installation (via devtools):
 ```r
-devtools::install_github("DLCorcoran/DunedinPoAm38")
+devtools::install_github("danbelsky/DunedinPoAm38")
 ```
 
 #### Usage:
