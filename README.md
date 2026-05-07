@@ -1,3 +1,9 @@
+
+#### **Important Notice:**
+This site and algorithm is ${\textsf{\color{red}for research users only, not commercial use.}}$ Commercial users should contact exclusive DunedinPACE licensee [TruDiagnostic<sup>TM</sup>](https://trudiagnostic.com/).
+
+---
+
 # DunedinPoAm
 Pace of Age calculator for Illumina methyl-array data
 
